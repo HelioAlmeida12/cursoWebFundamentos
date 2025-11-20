@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(15, 189, 189);
+    text-align: center;
+}
+
+.titulo{
+    color: rgb(209, 18, 226);
+}
+
+a{
+    text-decoration: none;
+}
+
+.nome{
+    color: blue;
+    font-weight: 600;
+}
+
+.nome1{
+    text-align: center;
+}

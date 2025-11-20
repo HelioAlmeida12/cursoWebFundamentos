@@ -1,0 +1,25 @@
+O que é uma classe em HTML?
+    Uma classe em HTML é um atributo usado para agrupar elementos que compartilham caracteristicas semelhantes, 
+    permitindo aplicar estilos CSS a vários elementos de uma vez.
+
+O que é um ID em HTML?
+    O id em HTML é um atributo que especifica um identificador único para um único elemento em um documento. Ele é
+    usado para referenciar um elemento específico em CSS e JavaScript.
+
+
+
+Box model----------------------------------------------------------------------------
+Box model - Width e height
+    Largura e altura
+
+Box model - Margin e padding
+    Padding:  O padding define o espaçamento interno de um elemento, criando uma área de preenchimento 
+    entre o conteúdo e a sua borda.
+
+    Margin: A propriedade margin em CSS é usada para criar espaço ao redor de um elemento, fora
+    de sua borda, separando-o de outros elementos.
+
+    Border: No css, a propriedade border é usada para adicionar bordas a um elemento, combinando o estilo, a Largura
+    e a cor em uma única declaração.
+
+    
